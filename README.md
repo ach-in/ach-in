@@ -1,10 +1,10 @@
 ### :hammer_and_pick:	
 
 <a href="https://github.com/ach-in">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ach-in&count_private=true&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ach-in&count_private=true&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/ach-in">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ach-in&layout=compact&count_private=true&theme=dark&hide=jupyter%20notebook&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ach-in&layout=compact&count_private=true&theme=transparent&hide=jupyter%20notebook&langs_count=10" />
 </a>
 
  
